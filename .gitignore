@@ -1,0 +1,13 @@
+# Directories starting with a dot
+.*/
+
+# Build output
+zig-out/
+
+# Image files
+*.png
+!comp.png
+
+# Markdown files
+*.md
+!README.md
